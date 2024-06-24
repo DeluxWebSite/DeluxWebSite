@@ -22,7 +22,7 @@
 </kbd>
 
 
-###           > [*Заказать* *сайт*](https://t.me/Serge_WebDev) <
+###           > [*отправить сообщение*](https://t.me/Serge_WebDev) <
 
 ### ✨ *https://www.delux.website* ✨
 
