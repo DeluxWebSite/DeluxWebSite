@@ -3,7 +3,7 @@
 
 ## Стек технологий:
 <kbd>
-  <img src="https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/56fc6830-c9d5-42b9-8533-4a6ea2a5c8c6" />
+  <img src="https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/56fc6830-c9d5-42b9-8533-4a6ea2a5c8c6" width="200" height="200"/>
 </kbd>
 ![icon-html-5](https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/56fc6830-c9d5-42b9-8533-4a6ea2a5c8c6)
 ![icon-css-3](https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/8d9ec429-8c4f-409e-849a-7a1f9b6d1a95)
