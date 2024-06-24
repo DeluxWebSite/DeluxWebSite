@@ -2,6 +2,9 @@
 ## ✨ *Я рад приветствовать вас в креативном пространстве, где идеи обретают новые формы и превращаются в реальность. Я создаю новые и инновационные продукты, решения для различных сфер бизнеса, разрабатываю проекты, которые могут изменить мир в лучшую сторону. Добро пожаловать в мир, где все возможно!* ✨
 
 ## Стек технологий:
+<kbd>
+  <img src="https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/56fc6830-c9d5-42b9-8533-4a6ea2a5c8c6" />
+</kbd>
 ![icon-html-5](https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/56fc6830-c9d5-42b9-8533-4a6ea2a5c8c6)
 ![icon-css-3](https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/8d9ec429-8c4f-409e-849a-7a1f9b6d1a95)
 ![icon-js](https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/bc41fad3-22bc-4c16-b57b-ccc097b0e236)
