@@ -24,5 +24,5 @@
 
 ###  > [*отправить сообщение в телеграмм*](https://t.me/Serge_WebDev) <
 
-### ✨ *https://www.delux.website* ✨
+### ✨ ✨ ✨
 
