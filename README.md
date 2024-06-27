@@ -1,18 +1,18 @@
 
-## ✨ *Бодрого времени суток! Меня зовут Сергей, я веб-разработчик (fullstack)* ✨
+## ✨ *Fighting time of day! My name is Sergey, I'm a web developer (Fullstack)* ✨
 
-###  ✨ Hard skills:
-##  *1. Владею  различными веб-технологиями, такими как HTML, CSS, JavaScript и PHP, и создаю  адаптивные и интерактивные веб-сайты.*
-##  *2. Работаю с различными сетевыми технологиями:  проектирую, настраиваю и управляю компьютерными сетями.*
-##  *3. Настраиваю и устанавливаю   операционные системы, такие как: Windows, Linux и macOS, а также  программное обеспечение к ним.*
-##  *4. Знаком с различными системами управления базами данных, такими как MySQL, PostgreSQL. Умею использовать их для создания, обновления и обслуживания баз данных.*
-##  *5. Имею навыки в работе с основными вопросами, связанными с кибербезопасностью, и могу обеспечить безопасность сети и данных.*
+### ✨ Hard Skills:
+##  *1. I own various web technologies such as HTML, CSS, JavaScript and PHP, and create adaptive and interactive websites.*
+## *2. I work with various network technologies: I design, set up and control computer networks.*
+## *3. I set up and install operating systems such as: Windows, Linux and MacOS, as well as software for them.*
+##  *4. Familiar with various database management systems, such as MySQL, PostgreSQL. I can use them to create, update and maintain databases.*
+##  *5. I have skills in working with basic issues related to cybersecurity, and I can ensure the security of the network and data.*
 
-###  ✨ Soft skills:
-##  *1. Универсальное аналитическое и логическое  мышление. Математический склад ума, навыки в алгоритмах и архитектуре ПО.*
-##  *2. Работа в команде.*
-##  *3. Проактивность и настойчивость.*
-##  *4. Всегда готов развивать свои навыки в постоянном изучении новых технологий и инструментов.*
+### ✨ Soft Skills:
+##  *1. Universal analytical and logical thinking. Mathematical mindset, skills in algorithms and architecture by.*
+## *2. Teamwork.*
+## *3. Pract and perseverance.*
+##  *4. Always ready to develop your skills in the constant study of new technologies and tools.*
 
 ## :hammer_and_wrench: Languages and Tools :
 <kbd>
@@ -83,7 +83,7 @@
 </kbd>
 
 
-###  > [*отправить сообщение в телеграмм*](https://t.me/Serge_WebDev) <
+###  > [*Send a message to telegrams*](https://t.me/Serge_WebDev) <
 
 ### ✨ ✨ ✨
 
