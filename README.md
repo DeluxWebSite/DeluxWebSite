@@ -16,7 +16,7 @@
   <img src="https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/442ae1db-e581-42e5-bac1-9bc904cab749" width="50" height="50"/>
 </kbd>
 <kbd>
-  <img src="https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/348513c3-892b-4ccf-acf9-db428b95d8d0" width="50" height="50"/>
+  <img src="https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/80d60f15-1b70-4d66-ad02-85bb3d96c992" width="50" height="50"/>
 </kbd>
 <kbd>
   <img src="https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/6f7a424d-091a-435e-8f3f-b13bf9fe8f36" width="50" height="50"/>
@@ -25,23 +25,21 @@
   <img src="https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/78df0c66-6980-4906-96ad-fcf0bdb58344" width="50" height="50"/>
 </kbd>
 <kbd>
-  <img src="" width="50" height="50"/>
+  <img src="https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/df82cc0b-9eef-4f7f-bf84-8fcb86d16318" width="50" height="50"/>
 </kbd>
 <kbd>
-  <img src="" width="50" height="50"/>
+  <img src="https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/0152ab18-581c-4a01-b840-f763cbba0dfd" width="50" height="50"/>
 </kbd>
 <kbd>
-  <img src="" width="50" height="50"/>
+  <img src="https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/97c8fec6-952b-4719-9687-492a8e63849b" width="50" height="50"/>
 </kbd>
 <kbd>
-  <img src="" width="50" height="50"/>
+  <img src=" " width="50" height="50"/>
 </kbd>
 <kbd>
-  <img src="" width="50" height="50"/>
+  <img src=" " width="50" height="50"/>
 </kbd>
-<kbd>
-  <img src="https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/80d60f15-1b70-4d66-ad02-85bb3d96c992" width="50" height="50"/>
-</kbd>
+
 
 
 ###  > [*отправить сообщение в телеграмм*](https://t.me/Serge_WebDev) <
