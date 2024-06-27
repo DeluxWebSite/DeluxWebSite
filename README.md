@@ -16,6 +16,9 @@
   <img src="https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/442ae1db-e581-42e5-bac1-9bc904cab749" width="50" height="50"/>
 </kbd>
 <kbd>
+  <img src="https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/5dc5af79-ddc4-4d34-8a9d-b756dbf3191c" width="50" height="50"/>
+</kbd>
+<kbd>
   <img src="https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/80d60f15-1b70-4d66-ad02-85bb3d96c992" width="50" height="50"/>
 </kbd>
 <kbd>
@@ -34,8 +37,12 @@
   <img src="https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/97c8fec6-952b-4719-9687-492a8e63849b" width="50" height="50"/>
 </kbd>
 <kbd>
-  <img src=" " width="50" height="50"/>
+  <img src="https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/9ff3ebe8-bbb5-43ee-9ea1-5dfc344efb06" width="50" height="50"/>
 </kbd>
+<kbd>
+  <img src="https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/dacba462-2fb3-4ff0-a36a-5bb7c948f72c" width="50" height="50"/>
+</kbd>
+
 <kbd>
   <img src=" " width="50" height="50"/>
 </kbd>
