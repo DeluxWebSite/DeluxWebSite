@@ -1,4 +1,4 @@
-![css3-plain-wordmark]()
+
 
 ## ✨ *Я рад приветствовать вас в креативном пространстве, где идеи обретают новые формы и превращаются в реальность. Я создаю новые и инновационные продукты, решения для различных сфер бизнеса, разрабатываю проекты, которые могут изменить мир в лучшую сторону. Добро пожаловать в мир, где все возможно!* ✨
 
@@ -10,7 +10,7 @@
   <img src="https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/26c24828-6939-4f18-9ae4-9be9c69a3b0c" width="50" height="50"/>
 </kbd>
 <kbd>
-  <img src="https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/bc41fad3-22bc-4c16-b57b-ccc097b0e236" width="50" height="50"/>
+  <img src="https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/36f83598-e3e6-49ab-aa7b-a023017b428a" width="50" height="50"/>
 </kbd>
 <kbd>
   <img src="https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/348513c3-892b-4ccf-acf9-db428b95d8d0" width="50" height="50"/>
