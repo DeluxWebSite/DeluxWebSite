@@ -85,7 +85,7 @@
 
 ###  > [*Send a message to telegrams*](https://t.me/Serge_WebDev) <
 
-### ✨ ✨ ✨
+### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeluxWebSite&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
