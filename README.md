@@ -1,9 +1,9 @@
-
+![html5-original-wordmark](https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/0b8eace4-796e-4f66-b2bd-e807e384faab)
 ## ✨ *Я рад приветствовать вас в креативном пространстве, где идеи обретают новые формы и превращаются в реальность. Я создаю новые и инновационные продукты, решения для различных сфер бизнеса, разрабатываю проекты, которые могут изменить мир в лучшую сторону. Добро пожаловать в мир, где все возможно!* ✨
 
 ### :hammer_and_wrench: Languages and Tools :
 <kbd>
-  <img src="https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/56fc6830-c9d5-42b9-8533-4a6ea2a5c8c6" width="50" height="50"/>
+  <img src="[icons/html5/html5-original-wordmark.svg](https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original-wordmark.svg)" width="50" height="50"/>
 </kbd>
 <kbd>
   <img src="https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/8d9ec429-8c4f-409e-849a-7a1f9b6d1a95" width="50" height="50"/>
