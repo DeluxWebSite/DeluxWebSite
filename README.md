@@ -24,6 +24,24 @@
 <kbd>
   <img src="https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/78df0c66-6980-4906-96ad-fcf0bdb58344" width="50" height="50"/>
 </kbd>
+<kbd>
+  <img src="" width="50" height="50"/>
+</kbd>
+<kbd>
+  <img src="" width="50" height="50"/>
+</kbd>
+<kbd>
+  <img src="" width="50" height="50"/>
+</kbd>
+<kbd>
+  <img src="" width="50" height="50"/>
+</kbd>
+<kbd>
+  <img src="" width="50" height="50"/>
+</kbd>
+<kbd>
+  <img src="https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/80d60f15-1b70-4d66-ad02-85bb3d96c992" width="50" height="50"/>
+</kbd>
 
 
 ###  > [*отправить сообщение в телеграмм*](https://t.me/Serge_WebDev) <
