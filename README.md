@@ -1,20 +1,20 @@
 
-## ✨ *Fighting time of day! My name is Sergey, I'm a web developer (Fullstack)* ✨
+### ✨ *Fighting time of day! My name is Sergey, I'm a web developer (Fullstack)* ✨
 
 ### ✨ Hard Skills:
-##  *1. I own various web technologies such as HTML, CSS, JavaScript and PHP, and create adaptive and interactive websites.*
-## *2. I work with various network technologies: I design, set up and control computer networks.*
-## *3. I set up and install operating systems such as: Windows, Linux and MacOS, as well as software for them.*
-##  *4. Familiar with various database management systems, such as MySQL, PostgreSQL. I can use them to create, update and maintain databases.*
-##  *5. I have skills in working with basic issues related to cybersecurity, and I can ensure the security of the network and data.*
+### *1. I own various web technologies such as HTML, CSS, JavaScript and PHP, and create adaptive and interactive websites.*
+### *2. I work with various network technologies: I design, set up and control computer networks.*
+### *3. I set up and install operating systems such as: Windows, Linux and MacOS, as well as software for them.*
+###  *4. Familiar with various database management systems, such as MySQL, PostgreSQL. I can use them to create, update and maintain databases.*
+###  *5. I have skills in working with basic issues related to cybersecurity, and I can ensure the security of the network and data.*
 
 ### ✨ Soft Skills:
-##  *1. Universal analytical and logical thinking. Mathematical mindset, skills in algorithms and architecture by.*
-## *2. Teamwork.*
-## *3. Pract and perseverance.*
-##  *4. Always ready to develop your skills in the constant study of new technologies and tools.*
+###  *1. Universal analytical and logical thinking. Mathematical mindset, skills in algorithms and architecture by.*
+### *2. Teamwork.*
+### *3. Pract and perseverance.*
+###  *4. Always ready to develop your skills in the constant study of new technologies and tools.*
 
-## :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :
 <kbd>
   <img src="https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/6907f9b0-5157-47a8-b068-c11b6f0445f2" width="50" height="50"/>
 </kbd>
