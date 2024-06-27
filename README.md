@@ -21,9 +21,6 @@
   <img src="https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/80d60f15-1b70-4d66-ad02-85bb3d96c992" width="50" height="50"/>
 </kbd>
 <kbd>
-  <img src="https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/6f7a424d-091a-435e-8f3f-b13bf9fe8f36" width="50" height="50"/>
-</kbd>
-<kbd>
   <img src="https://github.com/DeluxWebSite/DeluxWebSite/assets/78999363/df82cc0b-9eef-4f7f-bf84-8fcb86d16318" width="50" height="50"/>
 </kbd>
 <kbd>
