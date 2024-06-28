@@ -1,14 +1,14 @@
 
 ### ✨ *Fighting time of day! My name is Sergey, I'm a web developer (Fullstack)* ✨
 
-### ✨ Hard Skills:
+### ✨ My hard Skills:
 ### *-- I own various web technologies such as HTML, CSS, JavaScript and PHP, and create adaptive and interactive websites.*
 ### *-- I work with various network technologies: I design, set up and control computer networks.*
 ### *-- I set up and install operating systems such as: Windows, Linux and MacOS, as well as software for them.*
 ### *-- Familiar with various database management systems, such as MySQL, PostgreSQL. I can use them to create, update and maintain databases.*
 ### *-- I have skills in working with basic issues related to cybersecurity, and I can ensure the security of the network and data.*
 
-### ✨ Soft Skills:
+### ✨ My soft Skills:
 ### *-- Universal analytical and logical thinking. Mathematical mindset, skills in algorithms and architecture by.*
 ### *-- Teamwork.*
 ### *-- Pract and perseverance.*
