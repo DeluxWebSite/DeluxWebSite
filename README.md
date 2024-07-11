@@ -1,5 +1,5 @@
 
-### ✨ *Good day! My name is Sergey, I'm a web developer (Fullstack)* ✨
+### ✨ *Good time of day! My name is Sergey, I'm a web developer (Fullstack)* ✨
 
 ### ✨ My hard Skills:
 ### *-- I own various web technologies such as HTML, CSS, JavaScript and PHP, and create adaptive and interactive websites.*
